@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header { 
+   
+}
+#kaci {
+    max-width: 1231px;
+    height: 72px;
+}
+
+#foto {
+    width: 174px;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 12px 24px;
+}
+
+#about {
+    color: #323;
+    width: 52px;
+    font-size: 18px;
+    /* display: inline-block;
+    vertical-align: middle; */
+    text-align: left;
+
+}
+
+
+#list, #list li  { 
+    display: inline-block;
+}
